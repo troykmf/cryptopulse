@@ -176,6 +176,12 @@
       "languageVersion": "2.12"
     },
     {
+      "name": "nested",
+      "rootUri": "file:///Users/troymacbook/.pub-cache/hosted/pub.dev/nested-1.0.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
       "name": "octo_image",
       "rootUri": "file:///Users/troymacbook/.pub-cache/hosted/pub.dev/octo_image-2.0.0",
       "packageUri": "lib/",
@@ -234,6 +240,12 @@
       "rootUri": "file:///Users/troymacbook/.pub-cache/hosted/pub.dev/plugin_platform_interface-2.1.8",
       "packageUri": "lib/",
       "languageVersion": "3.0"
+    },
+    {
+      "name": "provider",
+      "rootUri": "file:///Users/troymacbook/.pub-cache/hosted/pub.dev/provider-6.1.2",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
     },
     {
       "name": "rxdart",
@@ -356,7 +368,7 @@
       "languageVersion": "3.4"
     }
   ],
-  "generated": "2024-07-08T08:21:10.340818Z",
+  "generated": "2024-07-08T08:42:00.351975Z",
   "generator": "pub",
   "generatorVersion": "3.4.3",
   "flutterRoot": "file:///Users/troymacbook/development/flutter",
